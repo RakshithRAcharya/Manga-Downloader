@@ -4,7 +4,9 @@ This is a simple manga downloader that downloads the desired manga and the desir
 ## Installation 
 
 Clone the repository into the desired folder : git clone https://github.com/RakshithRAcharya/Manga-Downloader.git
-Enter the folder : cd Manga-Downloader-master
+
+Enter the folder : cd Manga-Downloader
+
 Run the code : python Man-dl.py
 
 ## Queries 
